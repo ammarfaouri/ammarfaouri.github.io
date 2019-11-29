@@ -27,8 +27,9 @@ A web app to share and discuss camping sites.
 - Rest routes.
 - Authentication.
 
-<img src="https://imgur.com/0REIJ0T.jpg" height="800 " width="600">
-<img src="https://imgur.com/H2JRCUq.jpg" height="800 " width="600">
+<img src="https://imgur.com/0RkWB5J.jpg" height="800 " width="600">
+<img src="https://imgur.com/m5YXlnn.jpg" height="800 " width="600">
+<img src="https://imgur.com/TkiO5YF.jpg" height="800 " width="600">
 
 _This Project was made as a part of an online course [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)_
 
@@ -40,9 +41,9 @@ A web app for designing and creating color palettes.
 - Choose different shades of the colors
 - Choose color format (rgb,rgba,HEX)
 
-<img src="https://imgur.com/DvrZAUd.jpg" height="800 " width="600">
-<img src="https://imgur.com/hsoQuWY.jpg" height="800 " width="600">
-<img src="https://imgur.com/CGddreN.jpg" height="800 " width="600">
+<img src="https://imgur.com/KBx1Lo9.jpg" height="800 " width="600">
+<img src="https://imgur.com/6Vlc6TY.jpg" height="800 " width="600">
+<img src="https://imgur.com/fRWmUMv.jpg" height="800 " width="600">
 
 _This Project was made as a part of an online course [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/)_
 
@@ -50,7 +51,7 @@ _This Project was made as a part of an online course [The Modern React Bootcamp]
 
 A web app for sharing and creating food recipes!
 
-<img src="https://imgur.com/5SNOUqC.jpg" height="800 " width="600">
+<img src="https://imgur.com/bbsMou3.jpg" height="800 " width="600">
 
 ## Contact Info
 
