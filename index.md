@@ -1,3 +1,6 @@
+# Ammar Faouri
+
+
 Self-taught web developer, Seeking to launch my career building web applications. Interested in a role with company promoting best practices and offering diverse customer projects.
 
 ## Skills
