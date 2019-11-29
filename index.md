@@ -1,4 +1,4 @@
-# Ammar Faouri , Web developer
+# Ammar Faouri
 
 Self-taught web developer, Seeking to launch my career building web applications. Interested in a role with company promoting best practices and offering diverse customer projects.
 
@@ -16,31 +16,48 @@ Self-taught web developer, Seeking to launch my career building web applications
 - MongoDB
 - Mongoose
 - Rest API
-  
 
-# Header 1
+## Projects
 
-## Header 2
+### [Yelp Camp](https://github.com/ammarfaouri/YelpCamp)
 
-### Header 3
+A web app to share and discuss camping sites.
 
-- Bulleted
-- List
+- CRUD functionality.
+- Rest routes.
+- Authentication.
 
-1. Numbered
-2. List
+<img src="https://imgur.com/0REIJ0T.jpg" height="640 " width="880">
+<img src="https://imgur.com/H2JRCUq.jpg" height="640 " width="880">
 
-**Bold** and _Italic_ and `Code` text
+_This Project was made as a part of an online course [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)_
 
-[Link](url) and ![Image](src)
-```
+### [React Colors](https://github.com/ammarfaouri/React-Colors)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A web app for designing and creating color palettes.
 
-### Jekyll Themes
+- Creating color palettes.
+- Choose different shades of the colors
+- Choose color format (rgb,rgba,HEX)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ammarfaouri/ammarfaouri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="https://imgur.com/DvrZAUd.jpg" height="640 " width="880">
+<img src="https://imgur.com/hsoQuWY.jpg" height="640 " width="880">
+<img src="https://imgur.com/CGddreN.jpg" height="640 " width="880">
 
-### Support or Contact
+_This Project was made as a part of an online course [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/)_
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### [Thoughts for Food](https://github.com/ammarfaouri/thoughts-for-food) (Work in progress)
+
+A web app for sharing and creating food recipes!
+
+
+<img src="https://imgur.com/5SNOUqC.jpg" height="640 " width="880">
+
+## Contact Info
+
+Ammar Faouri
+Amman,Jordan
++962 772 550 702
+eng.ammarfaouri@gmail.com
+([LinkedIn](https://www.linkedin.com/in/ammar-faouri-68a014100/))
