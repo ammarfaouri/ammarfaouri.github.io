@@ -55,7 +55,11 @@ A web app for sharing and creating food recipes!
 ## Contact Info
 
 Ammar Faouri
+
 Amman,Jordan
+
 +962 772 550 702
+
 eng.ammarfaouri@gmail.com
+
 ([LinkedIn](https://www.linkedin.com/in/ammar-faouri-68a014100/))
