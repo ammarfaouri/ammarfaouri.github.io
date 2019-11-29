@@ -1,18 +1,27 @@
-## Welcome to GitHub Pages
+# Ammar Faouri , Web developer
 
-You can use the [editor on GitHub](https://github.com/ammarfaouri/ammarfaouri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Self-taught web developer, Seeking to launch my career building web applications. Interested in a role with company promoting best practices and offering diverse customer projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+- HTML
+- CSS
+- Bootstrap
+- Responsive Designs
+- JavaScript
+- jQuery
+- NodeJS
+- Express
+- React JS
+- MongoDB
+- Mongoose
+- Rest API
+  
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
