@@ -42,9 +42,9 @@ A web app for designing and creating color palettes.
 - Choose different shades of the colors
 - Choose color format (rgb,rgba,HEX)
 
-<img src="https://imgur.com/KBx1Lo9.jpg" height="800 " width="600">
-<img src="https://imgur.com/6Vlc6TY.jpg" height="800 " width="600">
-<img src="https://imgur.com/fRWmUMv.jpg" height="800 " width="600">
+<img src="https://imgur.com/KBx1Lo9.jpg" >
+<img src="https://imgur.com/6Vlc6TY.jpg" >
+<img src="https://imgur.com/fRWmUMv.jpg" >
 
 _This Project was made as a part of an online course [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/)_
 
@@ -52,7 +52,7 @@ _This Project was made as a part of an online course [The Modern React Bootcamp]
 
 A web app for sharing and creating food recipes!
 
-<img src="https://imgur.com/bbsMou3.jpg" height="800 " width="600">
+<img src="https://imgur.com/bbsMou3.jpg">
 
 ## Contact Info
 
